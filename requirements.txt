@@ -2,3 +2,7 @@ streamlit
 plotly
 pandas
 requests
+numpy
+openpyxl
+scikit-learn
+matplotlib
