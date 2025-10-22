@@ -6,3 +6,4 @@ numpy
 openpyxl
 scikit-learn
 matplotlib
+streamlit_folium
